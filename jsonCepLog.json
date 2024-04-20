@@ -1,0 +1,24 @@
+{
+  "cep": "61658-070",
+  "logradouro": "Avenida C",
+  "complemento": "(Cj Nova Metrópole)",
+  "bairro": "Nova Metrópole (Jurema)",
+  "localidade": "Caucaia",
+  "uf": "CE",
+  "ibge": "2303709",
+  "gia": "",
+  "ddd": "85",
+  "siafi": "1373"
+}
+{
+  "cep": "69978-505",
+  "logradouro": "Rua dos bobos",
+  "complemento": "Praia da Maria",
+  "bairro": "Good Garden",
+  "localidade": "Caucalifornia",
+  "uf": "ZE",
+  "ibge": "1111116",
+  "gia": "vazio",
+  "ddd": 99,
+  "siafi": 1337
+}
